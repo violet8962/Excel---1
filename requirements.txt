@@ -1,0 +1,10 @@
+# 数据处理
+pandas>=2.0
+numpy>=1.24
+openpyxl>=3.1        # 读取 .xlsx / .xlsm
+
+# 可视化
+matplotlib>=3.7
+
+# 动画合成（第三章 GIF）
+pillow>=9.0

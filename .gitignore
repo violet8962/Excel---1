@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+
+# 运行产物（图表可随时重新生成）
+output/*
+!output/.gitkeep
+
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
