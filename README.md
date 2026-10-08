@@ -3,6 +3,15 @@
 > 把一本 Excel 可视化教程，完整迁移成 Python（pandas + matplotlib）实现。
 > 30 个基础图表 + 7 个动态图表 + 2 块数据看板，全部可一键复现。
 
+**仓库地址**：https://github.com/violet8962/Excel---1
+
+```bash
+git clone git@github.com:violet8962/Excel---1.git
+cd Excel---1
+pip install -r requirements.txt
+python scripts/run_all.py
+```
+
 ---
 
 ## 一、项目简介
